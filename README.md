@@ -2,7 +2,7 @@
 
 Coba buat repo git.
 
-**Created by:** *Meradlin*
+**Created by:** *Meraldin*
 
 ---
 > Last Update: 20-01-2026
